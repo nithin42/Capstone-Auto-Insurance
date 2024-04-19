@@ -32,14 +32,14 @@ To address customer retention challenges faced by a US auto insurance company X 
   <li> <b>Improved Customer Retention:</b> Identified high-value customers for targeted promotional offers and loyalty programs, leading to increased customer retention and reduced churn rates.</li>
   <li><b>Enhanced Marketing Effectiveness:</b> Enabled data-driven allocation of marketing resources towards high-value customer segments, maximizing return on investment.</li>
   <li><b>Data-driven Decision Making:</b> Empowered stakeholders with CLV insights and interactive visualizations, facilitating informed decisions regarding customer acquisition, retention, and overall business strategy.</li>
-  <li><b>Enhanced User Experience:</b> Provided a user-friendly Q&A interface for easy access to information, promoting data democratization and knowledge sharing within the organization.</li>
+  <li><b>Enhanced User Experience:</b> Provided a user-friendly Q&A interface for easy access to information, promoting data democratization and knowledge sharing within the organization reducing the time required for developing efficient SQL queries..</li>
 </ul>  
 
 ## Technical Skills Demonstrated
 <b>Programming Language:</b> Python<br>
 **Scripting Languages:** HTML, CSS, JS <br>
 **Databases:** MySQL<br>
-**Tools and Technologies:**  AWS, Power​BI, Excel, GitHub <br>
+**Tools and Technologies:**  AWS, MS Power​BI, MS Excel, GitHub <br>
 **IDE:** Jupyter ​Notebook, Visual ​Studio ​Code <br>
 **API:** Gemini LLM
 <hr>
@@ -47,3 +47,20 @@ This project showcases expertise in leveraging data science and machine learning
 
 ## Dataset Description
 The dataset represents Customer lifetime value of an Auto Insurance industry in the United States, it includes over 24 features and 9134 records to analyze the lifetime value of Customer.
+
+## Data Source and References
+
+- Data Source: [IBM Watson Marketing Customer Value Data](https://www.kaggle.com/datasets/pankajjsh06/ibm-watson-marketing-customer-value-data)
+- Danao, M. (2023). What is Customer Lifetime Value (CLV). Forbes Advisor.
+[Go to the Website](https://www.forbes.com/advisor/business/customer-lifetime-value/#:~:
+text=What%20is%20customer%20lifetime%20value%20and%20why%20is%20it%
+20important,and%20increase%20profits%20over%20time)
+- LangChain, I. (2024a). LLMs. [Go to the page](https://python.langchain.com/docs/integrations/llms/)
+- LangChain, I. (2024b). SQL Database. [Go to the page](https://python.langchain.com/docs/integrations/tools/sql_database/)
+- Ross, S. (2021). How do insurance companies make money? Business Model Explained.
+Investopedia. [Go to the Website](https://www.investopedia.com/ask/answers/052015/what-main-business-
+model-insurance-companies.asp#:~:text=The%20essential%20insurance%20model%
+20involves,into%20other%20interest%2Dgenerating%20assets)
+
+
+
