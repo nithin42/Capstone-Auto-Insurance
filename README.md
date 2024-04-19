@@ -1,17 +1,17 @@
-# Title
+# Customer Lifetime Value Prediction for Auto-Insurance Companies
 Auto Insurance Customer Lifetime Value Prediction and Analysis
 
 ## Team 4: Data Walkers
-Kumbam Nithin goud <br>
-Rindhuja Johnson <br>
+Kumbam Nithin Goud <br>
+Rindhuja Treesa Johnson <br>
 Prudhvi Yaswanth Mundluri <br>
 
 ## Business Problem
-An Auto Insurance company in the USA is facing issues in retaining its customers and wants to advertise promotional offers for its loyal customers. They are considering Customer Lifetime Value CLV as a parameter for this purpose. <br>
+An Auto Insurance company X in the USA is facing issues in retaining its customers and wants to advertise promotional offers for its loyal customers. They are considering Customer Lifetime Value CLV as a parameter for this purpose. <br>
 Customer Lifetime Value (CLV) signifies the worth of a customer to a company across a specified duration.  In the insurance sector, where competition is intense, customers consider more than just insurance premiums when making decisions.  Customer Lifetime Value (CLV), being centered on the customer, offers a strong foundation for retaining high-value clients, earning more from lower-valued clients, and improving overall customer satisfaction. Effectively leveraging CLV can result in better customer acquisition and retention, decreased churn rates, informed marketing budget planning, detailed ad performance measurement, and numerous other advantages.
 
 ## Project Goal
-To address customer retention challenges faced by a US auto insurance company by leveraging Customer Lifetime Value (CLV) prediction and analysis.
+To address customer retention challenges faced by a US auto insurance company X by leveraging Customer Lifetime Value (CLV) prediction and analysis.
 
 ![Blank diagram](https://github.com/nithin42/capstone/assets/52503252/1851a78e-7cc0-4f85-a190-64ced94ece2f)
 
